@@ -5,7 +5,7 @@
 ## 新闻时事类 <a href="#news" id="news"></a>
 
 * [欧洲](news/europe.md)
-* [北美](news/northamerica.md)
+* [北美](news/north-america.md)
 * [香港](news/hongkong.md)
 * [台湾](news/taiwan.md)
 * [日本](news/japan.md)
@@ -14,18 +14,18 @@
 
 ## 政治类 <a href="#politics" id="politics"></a>
 
-* [电子杂志](politics/dian-zi-za-zhi.md)
-* [维权](politics/wei-quan.md)
-* [聚合类](politics/ju-he-lei.md)
+* [电子杂志](politics/e-magazine.md)
+* [维权](politics/rights-protection.md)
+* [聚合类](politics/polymerization.md)
 
 ## 财经类 <a href="#finance" id="finance"></a>
 
-* [北美](finance/bei-mei.md)
-* [欧洲](finance/ou-zhou.md)
-* [中国](finance/zhong-guo.md)
-* [香港](finance/xiang-gang.md)
-* [台湾](finance/tai-wan.md)
-* [日本](finance/ri-ben.md)
+* [北美](finance/north-america.md)
+* [欧洲](finance/europe.md)
+* [中国](finance/china.md)
+* [香港](finance/hongkong.md)
+* [台湾](finance/taiwan.md)
+* [日本](finance/japan.md)
 
 ## IT技术类 <a href="#it" id="it"></a>
 
