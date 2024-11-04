@@ -1,0 +1,7 @@
+---
+icon: earth-asia
+---
+
+# 日本
+
+<table><thead><tr><th>名称</th><th>链接</th><th width="79">类型<select><option value="BGUGad6z1D3N" label="Web" color="blue"></option><option value="tRN38hJONDQz" label="RSS" color="blue"></option><option value="SrXJ4ImKyy0m" label="X" color="blue"></option><option value="KTkuKRxKhXYx" label="WAP" color="blue"></option></select></th><th>说明</th></tr></thead><tbody><tr><td><strong>共同通讯社</strong></td><td> </td><td></td><td>介绍参见<a href="https://zh.wikipedia.org/wiki/%E5%85%B1%E5%90%8C%E9%80%9A%E8%AE%AF%E7%A4%BE">维基百科</a></td></tr><tr><td> </td><td><a href="http://china.kyodonews.jp/">http://china.kyodonews.jp/</a></td><td><span data-option="BGUGad6z1D3N">Web</span></td><td>简体中文主页</td></tr><tr><td> </td><td><a href="http://tchina.kyodonews.jp/">http://tchina.kyodonews.jp/</a></td><td><span data-option="BGUGad6z1D3N">Web</span></td><td>繁體中文主頁</td></tr><tr><td><strong>朝日新闻</strong></td><td> </td><td></td><td>介绍参见<a href="https://zh.wikipedia.org/wiki/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E">维基百科</a></td></tr><tr><td> </td><td><a href="http://asahichinese.com/locale/change/zh-cn">http://asahichinese.com/locale/change/zh-cn</a></td><td><span data-option="BGUGad6z1D3N">Web</span></td><td>简体中文主页</td></tr><tr><td> </td><td><a href="http://asahichinese.com/locale/change/zh-tw">http://asahichinese.com/locale/change/zh-tw</a></td><td><span data-option="BGUGad6z1D3N">Web</span></td><td>繁體中文主頁</td></tr></tbody></table>
